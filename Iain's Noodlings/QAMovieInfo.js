@@ -20,10 +20,10 @@ app.get('/onceuponatime', function (require, response) {
         'title': 'Once Upon A Time In Hollywood',
         'cert': '15',
         'releaseDate': '16/8/19',
-        'cast': 'Brad Pitt, Leonardo DiCaprio, Margot Robbie, Al Pacino',
-        'director': 'Quentin Taratino',
+'cast': 'Brad Pitt, Leonardo DiCaprio, Margot Robbie, Al Pacino',
+        'director': 'Quentin Tarantino',
         'runTime': '2hr 45m',
-        'description': "Quentin Tarantino's Once Upon a Time in... Hollywood visits 1969 Los Angeles, where everything is changing, as TV star Rick Dalton (Leonardo DiCaprio) and his longtime stunt double Cliff Booth (Brad Pitt) make their way around an industry they hardly recognise anymore."
+'description': "Quentin Tarantino's Once Upon a Time in... Hollywood visits 1969 Los Angeles, where everything is changing, as TV star Rick Dalton (Leonardo DiCaprio) and his longtime stunt double Cliff Booth (Brad Pitt) make their way around an industry they hardly recognise anymore."
     });});
 
 app.get('/tellit', function (require, response) {
